@@ -1,6 +1,6 @@
-a=int(input())
+c=int(input())
 s= 0
-while(a> 0):
-    s=s+a
-    a=a-1
+while(c> 0):
+    s=s+c
+    c=c-1
 print(s)
