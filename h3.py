@@ -9,6 +9,6 @@ for i in range(n):
 d.sort()
 if flag==1:
     for j in d:
-        print(j,end='')
+        print(j,end=' ')
 elif flag==-1:
     print(-1)
